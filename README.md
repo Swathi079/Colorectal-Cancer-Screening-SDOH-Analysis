@@ -46,3 +46,22 @@ Bar charts and tables visually display these disparities, supporting action-orie
 📦 **Required R Packages**
 pacman::p_load("tidyverse", "janitor", "survey", "gtsummary", "ggplot2", 
                "reshape2", "writexl", "flextable", "foreign", "knitr")
+
+📋 **How to Run**
+- Clone this repo or download as ZIP.
+- Place the 2022 BRFSS dataset (LLCP2022.XPT) in the data/ folder.
+- Open and knit brfss_crc_screening.qmd using RStudio.
+- Outputs (tables/plots) will be saved in output/.
+
+💡 **Notes**
+- This analysis is secondary use of public data (BRFSS 2022 by CDC).
+- It is intended for educational and public health research purposes.
+- Data is analyzed using appropriate survey weighting techniques to ensure generalizability.
+
+📈 **Summary of Skills Demonstrated**
+This project showcases my ability to:
+- Analyze complex, weighted health survey data
+- Use R programming for data wrangling, visualization, and survey statistics
+- Identify population-level disparities across key public health indicators
+- Develop clear, data-driven public health insights and communication materials
+- Translate raw data into actionable recommendations for program planning and policy alignment
