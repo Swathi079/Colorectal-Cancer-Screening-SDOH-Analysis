@@ -34,12 +34,13 @@ Bar charts and tables visually display these disparities, supporting action-orie
 
 📁 **Repository Structure**
 📦 brfss-2022-crc-screening/
+
 ├── README.md                 # Project description and instructions
-
+|
 ├── brfss_crc_screening.qmd   # Cleaned Quarto analysis script
-
+|
 ├── data/ [LLCP2022.XPT](https://www.cdc.gov/brfss/annual_data/annual_2022.html) # (Local only - not included in repo due to size) 
-
+|
 ├── output/ plots             # Visualizations of disparities
 
 📦 **Required R Packages**
