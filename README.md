@@ -20,6 +20,7 @@ This is a fully reproducible public health data analysis pipeline built in R and
 - **Survey Design**: Complex survey weighting (svydesign)
 - **Statistical Estimates**: Proportions with 95% CI using xlogit method
 - **Key Outcome Variable**: X_CRCREC2 (CRC screening status)
+- **Output**: Descriptive statistics table (Table 1), National prevalence estimates, State-level subgroup prevalence tables, Stratified plots (age, income, race, education, etc.)
 
 📊 **Key Findings**
 
