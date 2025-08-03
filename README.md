@@ -66,3 +66,9 @@ This project showcases my ability to:
 - Identify population-level disparities across key public health indicators
 - Develop clear, data-driven public health insights and communication materials
 - Translate raw data into actionable recommendations for program planning and policy alignment
+
+📬 **Contact**
+Swathi Pagadala
+MPH Candidate, Epidemiology | PharmD
+📧 pswathi3107@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/swathi-pagadala)
