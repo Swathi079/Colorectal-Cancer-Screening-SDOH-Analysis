@@ -71,4 +71,4 @@ This project showcases my ability to:
 Swathi Pagadala
 MPH Candidate, Epidemiology | PharmD
 📧 pswathi3107@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/swathi-pagadala)
+🔗 [LinkedIn](https://www.linkedin.com/in/swathi-pagadala/)
